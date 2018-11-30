@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "733485733040",
+    "firebase_url": "https://ml-imagerecognation.firebaseio.com",
+    "project_id": "ml-imagerecognation",
+    "storage_bucket": "ml-imagerecognation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733485733040:android:0ed3c7559de3e5be",
+        "android_client_info": {
+          "package_name": "com.example.leonovo.camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733485733040-j17d9p158o90pplhvdje2p1auggru2n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtz3aywMAOrTRMzGRqclVKEsOSnHpsmw4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

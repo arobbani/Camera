@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Image Text Recognation</string>
+    <string name="action_settings">Settings</string>
+    <string name="preview_description" />
+    <string name="btn_take_picture" />
+    <string name="btn_record_video" />
+    <string name="record_video">Record Video</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="find_text">Find Text</string>
+    <string name="classify_text">Classify Text</string>
+</resources>
